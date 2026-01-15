@@ -23,4 +23,6 @@ The project is based on the iOS Academy course.
 • CoreLocation<br />
 • MessageKit<br />
 
+## Screenshots
+
 <img src="https://github.com/user-attachments/assets/b149f87b-e5f3-4c68-81a5-54c0e59cab9e" width="500" height="1625">
